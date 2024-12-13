@@ -1139,8 +1139,6 @@ article.icon {
 ![school3](https://github.com/user-attachments/assets/05979b99-b70f-4921-ad0a-b6d85979ddd8)
 ![school2](https://github.com/user-attachments/assets/e2265cce-cb2c-402e-adcc-dc2f7628bf92)
 ![school1](https://github.com/user-attachments/assets/652f0a16-3f27-4f91-a60c-242495101272)
-![project-3](https://github.com/user-attachments/assets/b19adccf-444a-4962-80e4-bd6876efbfe2)
-![project-2](https://github.com/user-attachments/assets/65d2a051-2d2b-47a6-9c2c-1bf783094688)
 ![project-1](https://github.com/user-attachments/assets/b56f7921-3988-4604-824a-ba74ad5c61b1)
 ![profile-pic-2](https://github.com/user-attachments/assets/74e979cc-bda8-461f-b1b6-7f6aac0fc1f0)
 ![profile-pic](https://github.com/user-attachments/assets/89c6166e-df87-4f6f-a2ee-8f4e8ba34e3a)
