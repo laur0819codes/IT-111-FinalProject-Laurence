@@ -1,4 +1,4 @@
-![about-pic](https://github.com/user-attachments/assets/47cfcd67-6d45-4f2f-87ea-6a9ac428fc3b)<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
